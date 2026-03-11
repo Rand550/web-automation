@@ -1,4 +1,4 @@
-const csvUrl = "https://raw.githubusercontent.com/Rand550/web-automation/main/ebay_tech_deals.csv";
+const csvUrl = "https://raw.githubusercontent.com/Rand550/web-automation/cleaned_ebay_deals.csv";
 
 async function fetchCsvData() {
   try {
